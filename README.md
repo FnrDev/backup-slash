@@ -11,7 +11,7 @@ npm install
 ```
 ---
 
-### backup bot using [discord-backup package](https://www.npmjs.com/package/discord-backup)
+### backup bot using [discord-backup](https://www.npmjs.com/package/discord-backup) package
 
 ---
 
